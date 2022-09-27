@@ -4,8 +4,6 @@
 // 452 -> 11
 // 82 -> 10
 // 9012 -> 12
-// Console.Write ("Введите число: ");
-
 
 Console.Clear();
 Console.WriteLine("Введите число: " );
